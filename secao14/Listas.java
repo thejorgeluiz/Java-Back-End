@@ -1,7 +1,7 @@
 package secao14;
 // Array => subs. a classe Array
 
-import java.lang.reflect.Array;
+//import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Listas {
